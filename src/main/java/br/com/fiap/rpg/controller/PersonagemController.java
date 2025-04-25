@@ -1,0 +1,8 @@
+package br.com.fiap.rpg.controller;
+
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+public class PersonagemController {
+
+}
