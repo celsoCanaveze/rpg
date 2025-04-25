@@ -1,4 +1,6 @@
-# RPG Store API - CELSO CANAVEZE RM556118 - THIAGO MORENO MATHEUS RM554507
+# RPG Store API
+# CELSO CANAVEZE RM556118
+# THIAGO MORENO MATHEUS RM554507
 
 API para um mercado medieval onde personagens podem cadastrar, vender, comprar e trocar itens mágicos.
 
